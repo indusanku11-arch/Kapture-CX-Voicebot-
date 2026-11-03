@@ -1,14 +1,17 @@
 
-# Capstone Project: AI Tech Consultant
+# # Kapture CX Voicebot
 
 ## Overview
 
-This project is a Python-based prototype that demonstrates customer support workflow automation. It uses a mock Flask backend to retrieve customer account information, supports text-based conversations, identifies customer responses, determines appropriate collection outcomes, invokes backend functions when required, and records the final call disposition.
+This project is a Python-based voicebot prototype designed to simulate customer collection workflows. It uses a Flask mock server to handle backend requests and supports automated customer interactions, helping streamline collection-related processes.
 
 ## Technologies Used
-- Python
+
+- Python 3.11.2
 - Flask
-- SQLite
+- REST APIs
+- Mock Server
 
 ## Project Status
-Prototype demonstrating simulated customer conversations and collection workflow automation.
+
+Prototype demonstrating voicebot integration and simulated customer collection workflows.
